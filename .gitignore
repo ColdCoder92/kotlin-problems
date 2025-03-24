@@ -1,0 +1,104 @@
+# Project exclude paths
+/.gradle/
+/Topics/Arrays/Initializing an array of integers/out/
+/Topics/Arrays/Initializing an array of integers/out/production/classes/
+/Topics/Arrays/Initializing an array of longs/out/
+/Topics/Arrays/Initializing an array of longs/out/production/classes/
+/Topics/Arrays/Swap elements/out/
+/Topics/Arrays/Swap elements/out/production/classes/
+/Topics/Characters. Char type/A capital letter or a digit/out/
+/Topics/Characters. Char type/A capital letter or a digit/out/production/classes/
+/Topics/Characters. Char type/Comparing numbers and characters/out/
+/Topics/Characters. Char type/Comparing numbers and characters/out/production/classes/
+/Topics/Characters. Char type/Previous character/out/
+/Topics/Characters. Char type/Previous character/out/production/classes/
+/Topics/For loop and arrays/Counting/out/
+/Topics/For loop and arrays/Counting/out/production/classes/
+/Topics/For loop and arrays/Individual taxes/out/
+/Topics/For loop and arrays/Individual taxes/out/production/classes/
+/Topics/For loop and arrays/Is it here/out/
+/Topics/For loop and arrays/Is it here/out/production/classes/
+/Topics/Functions as objects/Theory/out/
+/Topics/Functions as objects/Theory/out/production/classes/
+/Topics/Hashing and security/Hashing the androids/out/
+/Topics/Hashing and security/Hashing the androids/out/production/classes/
+/Topics/Introduction to Kotlin reflection/Change the name/out/
+/Topics/Introduction to Kotlin reflection/Change the name/out/production/classes/
+/Topics/Iterators/Keep hyper/out/
+/Topics/Iterators/Keep hyper/out/production/classes/
+/Topics/Iterators/Roller coasters/out/
+/Topics/Iterators/Roller coasters/out/production/classes/
+/Topics/Lambda expressions/Theory/out/
+/Topics/Lambda expressions/Theory/out/production/classes/
+/Topics/Mutable List/Banana/out/
+/Topics/Mutable List/Banana/out/production/classes/
+/Topics/Mutable List/Comprehension/out/
+/Topics/Mutable List/Comprehension/out/production/classes/
+/Topics/Mutable List/Theory/out/
+/Topics/Mutable List/Theory/out/production/classes/
+/Topics/Mutable Set/Combination/out/
+/Topics/Mutable Set/Combination/out/production/classes/
+/Topics/Mutable Set/Filter/out/
+/Topics/Mutable Set/Filter/out/production/classes/
+/Topics/Mutable Set/Theory/out/
+/Topics/Mutable Set/Theory/out/production/classes/
+/Topics/Ordering elements in collection/Order your scores/out/
+/Topics/Ordering elements in collection/Order your scores/out/production/classes/
+/Topics/Ordering elements in collection/The lottery numbers/out/
+/Topics/Ordering elements in collection/The lottery numbers/out/production/classes/
+/Topics/Ranges/Not in range/out/
+/Topics/Ranges/Not in range/out/production/classes/
+/Topics/Ranges/Theory/out/
+/Topics/Ranges/Theory/out/production/classes/
+/Topics/Ranges/Within both ranges/out/
+/Topics/Ranges/Within both ranges/out/production/classes/
+/Topics/Reflection/List of properties/out/
+/Topics/Reflection/List of properties/out/production/classes/
+/Topics/Reflection/New string/out/
+/Topics/Reflection/New string/out/production/classes/
+/Topics/Retrieve single element/Secret code to save the city/out/
+/Topics/Retrieve single element/Secret code to save the city/out/production/classes/
+/Topics/Set/Combinination/out/
+/Topics/Set/Combinination/out/production/classes/
+/Topics/Set/Element problem/out/
+/Topics/Set/Element problem/out/production/classes/
+/Topics/Set/Subtraction/out/
+/Topics/Set/Subtraction/out/production/classes/
+/Topics/Set/Theory/out/
+/Topics/Set/Theory/out/production/classes/
+/Topics/String arrays/Printing an array/out/
+/Topics/String arrays/Printing an array/out/production/classes/
+/Topics/Structural vs referential equality/Theory/out/
+/Topics/Structural vs referential equality/Theory/out/production/classes/
+/Topics/Structural vs referential equality/True captain/out/
+/Topics/Structural vs referential equality/True captain/out/production/classes/
+/Topics/Test predicates  checking elements in collection/Every number is divisible by 3/out/
+/Topics/Test predicates  checking elements in collection/Every number is divisible by 3/out/production/classes/
+/Topics/Test predicates  checking elements in collection/Every number is even/out/
+/Topics/Test predicates  checking elements in collection/Every number is even/out/production/classes/
+/Topics/Test predicates  checking elements in collection/Which operations return true/out/
+/Topics/Test predicates  checking elements in collection/Which operations return true/out/production/classes/
+/Topics/The try-catch-finally statement/Will it be printed/out/
+/Topics/The try-catch-finally statement/Will it be printed/out/production/classes/
+/Topics/Try-catch statement/Correct code/out/
+/Topics/Try-catch statement/Correct code/out/production/classes/
+/Topics/Try-catch statement/Theory/out/
+/Topics/Try-catch statement/Theory/out/production/classes/
+/Topics/When expression/FTN-Numbers/out/
+/Topics/When expression/FTN-Numbers/out/production/classes/
+/Topics/When expression/Strings as objects/out/
+/Topics/When expression/Strings as objects/out/production/classes/
+/Topics/When expression/Theory/out/
+/Topics/When expression/Theory/out/production/classes/
+/Topics/Work with MutableLists/Guard On The Gate/out/
+/Topics/Work with MutableLists/Guard On The Gate/out/production/classes/
+/Topics/Work with MutableLists/Playing with numbers/out/
+/Topics/Work with MutableLists/Playing with numbers/out/production/classes/
+/Topics/Working with strings/Name Card/out/
+/Topics/Working with strings/Name Card/out/production/classes/
+/Topics/Working with strings/Operations and truth/out/
+/Topics/Working with strings/Operations and truth/out/production/classes/
+/Topics/Working with strings/Reverse a line of text input/out/
+/Topics/Working with strings/Reverse a line of text input/out/production/classes/
+/Topics/Working with strings/The information about a person/out/
+/Topics/Working with strings/The information about a person/out/production/classes/

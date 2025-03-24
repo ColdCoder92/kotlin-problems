@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: sources
+  - text: versions
+  - text: dependencies
+  - text: plugins
+  - text: libraries
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/33987#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 15 Jan 2025 17:20:46 UTC"
+record: -1
+selected_options:
+  - 2
+  - 3
+local_check: false

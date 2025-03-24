@@ -1,0 +1,7 @@
+custom_name: "Test predicates: checking elements in collection"
+content:
+  - Theory
+  - Every number is even
+  - Which definition is correct
+  - Which operations return true
+  - Every number is divisible by 3

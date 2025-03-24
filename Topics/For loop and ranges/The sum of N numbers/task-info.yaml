@@ -1,0 +1,13 @@
+type: code
+files:
+  - name: Main.kt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/4692#comment
+status: Unchecked
+feedback:
+  message: "Corrupted task (no id): please click \"Solve in IDE\" on <a href=\"https://hyperskill.org/learn/step/4692#comment\"\
+    >Hyperskill</a> one more time"
+  time: "Thu, 02 Jan 2025 03:58:13 UTC"
+record: -1
+submission_language: kotlin

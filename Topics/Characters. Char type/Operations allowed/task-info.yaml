@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: c / n
+  - text: c * n
+  - text: c + n
+  - text: c - n
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4682#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 03 Nov 2024 16:25:26 UTC"
+record: -1
+selected_options:
+  - 2
+  - 3
+local_check: false

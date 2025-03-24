@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: BCrypt salt is a fixed value that remains the same for all passwords.
+  - text: BCrypt salt is stored in plaintext alongside the hashed password.
+  - text: "BCrypt salt is a constant value added to the input before hashing, increasing\
+    \ the security of the hashed password."
+  - text: BCrypt salt helps prevent the use of rainbow tables in password cracking.
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/36631#comment
+status: Solved
+record: -1
+local_check: false

@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: For different calculations
+  - text: For entering local variables with a limited scope
+  - text: For object setting
+  - text: For initializing a new object and passing to it the result of a lambda
+  - text: For using a function without extension and executing a block of several operators
+files:
+  - name: task-remote-info.yaml
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/22878#comment
+status: Solved
+record: -1
+local_check: false

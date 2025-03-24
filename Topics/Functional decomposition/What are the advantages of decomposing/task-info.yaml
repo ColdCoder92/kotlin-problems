@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Decomposed programs use less memory
+  - text: Separate parts of code are easier to test
+  - text: Code fragments are easier to reuse
+  - text: Code is more readable
+  - text: Decomposed program works faster
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12669#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 06 Nov 2024 21:37:33 UTC"
+record: -1
+selected_options:
+  - 3
+  - 2
+  - 1
+custom_name: What are the advantages of decomposing?
+local_check: false

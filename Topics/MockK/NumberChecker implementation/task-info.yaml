@@ -1,0 +1,19 @@
+type: code
+files:
+  - name: task-remote-info.yaml
+    visible: true
+    learner_created: true
+  - name: NumberCheckerTest.kt
+    visible: true
+    learner_created: true
+  - name: NumberChecker.kt
+    visible: true
+    learner_created: true
+  - name: NumberChecker.class
+    visible: true
+    is_binary: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/27624#comment
+status: Solved
+record: -1
+submission_language: kotlin

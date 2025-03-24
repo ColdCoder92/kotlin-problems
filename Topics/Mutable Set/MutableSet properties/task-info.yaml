@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: It allows you to change its contents
+  - text: It does not allow duplicates
+  - text: It's an unordered collection
+  - text: Its size cannot be changed
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11898#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 13 Jan 2025 04:08:54 UTC"
+record: -1
+selected_options:
+  - 0
+  - 1
+  - 2
+local_check: false

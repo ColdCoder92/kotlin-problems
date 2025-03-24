@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Only use libraries that are maintained by JetBrains.
+  - text: Use outdated versions of libraries to ensure compatibility with older systems.
+  - text: Always choose libraries that are large in size as they offer more functionalities.
+  - text: Understand the library's functionality before using it.
+  - text: Check the library's documentation and ensure it has active community support.
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/33991#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 15 Jan 2025 17:17:33 UTC"
+record: -1
+selected_options:
+  - 3
+  - 4
+local_check: false

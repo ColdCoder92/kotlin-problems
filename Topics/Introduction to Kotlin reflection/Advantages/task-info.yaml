@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Observe and modify itself at runtime
+  - text: Be faster and more performant
+  - text: Observe and modify itself at compile time
+  - text: Be clearer and more safe
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/25898#comment
+status: Solved
+record: -1
+local_check: false

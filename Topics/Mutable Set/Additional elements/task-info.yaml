@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: plus(element)
+  - text: append(element)
+  - text: add(element)
+  - text: addAll(elements)
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11899#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 13 Jan 2025 04:06:24 UTC"
+record: -1
+selected_options:
+  - 2
+  - 3
+local_check: false

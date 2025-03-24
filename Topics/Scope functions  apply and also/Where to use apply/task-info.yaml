@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: For creating objects
+  - text: For different calculations
+  - text: For long chains of operations with an object
+  - text: For object setting
+files:
+  - name: task-remote-info.yaml
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/22610#comment
+status: Solved
+record: -1
+local_check: false

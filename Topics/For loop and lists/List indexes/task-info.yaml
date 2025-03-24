@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: mutList.indices
+  - text: mutList.rangeOf(0..mutList.size)
+  - text: mutList.indexes
+  - text: mutList.getIndexes()
+files:
+  - name: task-remote-info.yaml
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/15033#comment
+status: Solved
+record: -1
+local_check: false

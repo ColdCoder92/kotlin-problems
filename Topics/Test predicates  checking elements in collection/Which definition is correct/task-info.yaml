@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: A function that returns true or false based on the indicated input
+  - text: The result of a when statement
+  - text: The number of iterations of a while loop
+  - text: A result of a conditional statement
+  - text: An extension function that returns true or false
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/22083#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 10 Mar 2025 21:04:22 UTC"
+record: -1
+selected_options:
+  - 0
+custom_name: Which definition is correct?
+local_check: false

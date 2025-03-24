@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: '''\u003F'''
+  - text: '''\\003F'''
+  - text: '''#003F'''
+  - text: '''003F'''
+  - text: '''\n003F'''
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4683#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 06 Nov 2024 20:18:06 UTC"
+record: -1
+selected_options:
+  - 0
+local_check: false

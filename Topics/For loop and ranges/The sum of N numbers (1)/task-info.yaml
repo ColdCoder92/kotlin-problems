@@ -1,0 +1,10 @@
+type: code
+custom_name: The sum of N numbers
+files:
+  - name: task-remote-info.yaml
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/4692#comment
+status: Solved
+record: -1
+submission_language: kotlin

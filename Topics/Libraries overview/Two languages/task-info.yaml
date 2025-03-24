@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "It depends on the library, some might work with Kotlin, others may not."
+  - text: "Yes, but first the Java library needs to be rewritten in Kotlin."
+  - text: "No, Java libraries cannot be used in Kotlin."
+  - text: "Yes, Kotlin is fully interoperable with Java, allowing the use of Java libraries\
+    \ without any modifications."
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/33989#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 15 Jan 2025 17:21:08 UTC"
+record: -1
+selected_options:
+  - 3
+local_check: false

@@ -1,0 +1,15 @@
+type: theory
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+  - name: src/Main.java
+    visible: true
+    learner_created: true
+  - name: src/Employee.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/11897#comment
+status: Solved
+record: -1
+post_submission_on_open: true

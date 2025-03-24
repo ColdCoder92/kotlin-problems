@@ -1,0 +1,7 @@
+custom_name: "Scope functions: let, run, and with"
+content:
+  - Theory
+  - Chain of functions
+  - With vs let vs run
+  - Where to use run
+  - Organize your code again

@@ -1,0 +1,30 @@
+type: table
+files:
+  - name: task-remote-info.yaml
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/22876#comment
+status: Solved
+record: -1
+rows:
+  - with
+  - run
+  - let
+columns:
+  - Returns context object
+  - Returns result of lambda
+  - Context object as it
+  - Context object as this
+selected:
+  - - false
+    - false
+    - false
+    - false
+  - - false
+    - false
+    - false
+    - false
+  - - false
+    - false
+    - false
+    - false

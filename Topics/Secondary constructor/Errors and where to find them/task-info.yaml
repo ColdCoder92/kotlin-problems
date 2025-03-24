@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - A
+  - B
+  - C
+  - D
+options:
+  - Reassigning val because of name collision
+  - Primary constructor call is absent
+  - Signature uniqueness violation
+  - No values passed for constructor parameters
+files:
+  - name: task-remote-info.yaml
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/10747#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

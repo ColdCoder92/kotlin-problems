@@ -1,0 +1,26 @@
+<div class="step-text">
+<p></p>
+<p>We have code that takes a secret message as input and shifts each uppercase letter 3 positions down the alphabet. If there are no following letters in the alphabet after the shift, the code wraps around and starts from the first letter of the alphabet.</p>
+<pre><code class="language-kotlin">fun main() {
+    val secretMessage = "MXQE!"
+
+    val encryptedMessage = buildString {
+        for (char in secretMessage) {
+            if (char.isLetter()) {
+                val shiftedChar = char.code + 3
+                val wrappedChar = if (shiftedChar &gt; 'Z'.code) {
+                    'A' + (shiftedChar - 'Z'.code - 1)
+                } else {
+                    shiftedChar.toChar()
+                }
+                append(wrappedChar)
+            } else {
+                append(char)
+            }
+        }
+    }
+
+    println(encryptedMessage)
+}</code></pre>
+<p>Enter the output of this code in the box below.</p>
+</div>

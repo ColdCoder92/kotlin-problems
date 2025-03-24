@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Ability to generate unique hash values for each input.
+  - text: Resistance to brute-force attacks.
+  - text: It returns the same hash value.
+  - text: Protection against rainbow table attacks.
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/36630#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 17 Jan 2025 03:56:32 UTC"
+record: -1
+selected_options:
+  - 0
+  - 1
+  - 3
+local_check: false

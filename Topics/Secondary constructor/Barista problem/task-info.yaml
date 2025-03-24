@@ -1,0 +1,16 @@
+type: code
+files:
+  - name: task-remote-info.yaml
+    visible: true
+    learner_created: true
+  - name: EspressoMachine.kt
+    visible: true
+    learner_created: true
+  - name: EspressoMachine.class
+    visible: true
+    is_binary: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/10751#comment
+status: Solved
+record: -1
+submission_language: kotlin

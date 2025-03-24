@@ -1,0 +1,16 @@
+type: code
+custom_name: I'm alive!
+files:
+  - name: task-remote-info.yaml
+    visible: true
+    learner_created: true
+  - name: Main.kt
+    visible: true
+    learner_created: true
+  - name: src/Main.kt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/23486#comment
+status: Solved
+record: -1
+submission_language: kotlin

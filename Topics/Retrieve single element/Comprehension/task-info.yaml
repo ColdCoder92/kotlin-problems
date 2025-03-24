@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: in
+  - text: find()
+  - text: contains()
+  - text: first()
+  - text: include()
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/24877#comment
+status: Solved
+feedback:
+  message: |-
+    <html>You've used all 7 of your lives for today.
+    Use this pause to revisit theory, and we'll see you tomorrow for more practice!</html>
+  time: "Wed, 12 Mar 2025 01:31:32 UTC"
+record: -1
+selected_options:
+  - 1
+  - 2
+  - 3
+  - 4
+local_check: false

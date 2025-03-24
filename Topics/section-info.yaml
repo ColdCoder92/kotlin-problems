@@ -1,0 +1,50 @@
+content:
+  - Structural vs referential equality
+  - Work with MutableLists
+  - Functions as objects
+  - Lambda expressions
+  - Try-catch statement
+  - The try-catch-finally statement
+  - Characters. Char type
+  - Ranges
+  - When expression
+  - Functional decomposition
+  - Default arguments
+  - Named arguments
+  - Working with strings
+  - List
+  - For loop and ranges
+  - For loop and lists
+  - Map
+  - Mutable Map
+  - Set
+  - Mutable Set
+  - Mutable List
+  - Libraries overview
+  - Hashing and security
+  - Declaring classes
+  - Constructors
+  - Member functions
+  - Extension functions
+  - Secondary constructor
+  - Function references
+  - MockK
+  - Scopes
+  - Nested and inner classes
+  - Scope functions  apply and also
+  - "Scope functions  let, run, and with"
+  - Scope functions  summary
+  - Getting substrings
+  - Arrays
+  - String arrays
+  - For loop and arrays
+  - Iterators
+  - Test predicates  checking elements in collection
+  - Ordering elements in collection
+  - Enum
+  - Retrieve single element
+  - Type cast and smart cast
+  - Introduction to Kotlin reflection
+  - Infix functions
+  - Reflection
+  - StringBuilder

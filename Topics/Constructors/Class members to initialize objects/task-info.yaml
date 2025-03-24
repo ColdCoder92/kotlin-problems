@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Constructor
+  - text: Destructor
+  - text: Factory
+  - text: Finalizer
+  - text: Generator
+  - text: Getter
+  - text: Initializer
+  - text: Preparator
+  - text: Setter
+files:
+  - name: task-remote-info.yaml
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/6238#comment
+status: Solved
+record: -1
+local_check: false

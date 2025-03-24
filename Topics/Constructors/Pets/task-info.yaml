@@ -1,0 +1,12 @@
+type: code
+files:
+  - name: task-remote-info.yaml
+    visible: true
+    learner_created: true
+  - name: Pet.kt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/10877#comment
+status: Solved
+record: -1
+submission_language: kotlin
