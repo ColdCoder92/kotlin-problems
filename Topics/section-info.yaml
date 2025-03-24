@@ -48,3 +48,4 @@ content:
   - Infix functions
   - Reflection
   - StringBuilder
+  - Lambda with receiver

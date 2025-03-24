@@ -81,6 +81,9 @@
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Function composition" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Max" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda with receiver/Creating a Tag Builder" />
+            <option value="$PROJECT_DIR$/Topics/Lambda with receiver/Test if a number is divisible" />
+            <option value="$PROJECT_DIR$/Topics/Lambda with receiver/Theory" />
             <option value="$PROJECT_DIR$/Topics/Libraries overview/Absolute value" />
             <option value="$PROJECT_DIR$/Topics/Libraries overview/Best practices" />
             <option value="$PROJECT_DIR$/Topics/Libraries overview/Building a library" />
