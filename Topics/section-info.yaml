@@ -49,3 +49,4 @@ content:
   - Reflection
   - StringBuilder
   - Lambda with receiver
+  - Type-safe builders

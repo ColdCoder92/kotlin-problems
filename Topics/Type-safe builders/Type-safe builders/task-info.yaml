@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: It allows creating APIs with a fluent and readable syntax
+  - text: The code blocks can be structured similarly to a hierarchical structure or
+      a markup language
+  - text: It is a way to improve Clean Code
+  - text: It improves the compilation time
+  - text: The compiler can verify the correctness and prevent common errors
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/29650#comment
+status: Unchecked
+record: -1
+local_check: false
