@@ -50,3 +50,4 @@ content:
   - StringBuilder
   - Lambda with receiver
   - Type-safe builders
+  - Contracts
