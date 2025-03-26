@@ -91,6 +91,10 @@
             <option value="$PROJECT_DIR$/Topics/Lambda with receiver/Test if a number is divisible" />
             <option value="$PROJECT_DIR$/Topics/Lambda with receiver/The Magic function" />
             <option value="$PROJECT_DIR$/Topics/Lambda with receiver/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lazy initialization/Initialized" />
+            <option value="$PROJECT_DIR$/Topics/Lazy initialization/Right order" />
+            <option value="$PROJECT_DIR$/Topics/Lazy initialization/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lazy initialization/Val vs Var" />
             <option value="$PROJECT_DIR$/Topics/Libraries overview/Absolute value" />
             <option value="$PROJECT_DIR$/Topics/Libraries overview/Best practices" />
             <option value="$PROJECT_DIR$/Topics/Libraries overview/Building a library" />

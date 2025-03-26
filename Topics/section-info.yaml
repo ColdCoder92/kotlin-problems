@@ -51,3 +51,4 @@ content:
   - Lambda with receiver
   - Type-safe builders
   - Contracts
+  - Lazy initialization
