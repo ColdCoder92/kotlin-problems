@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "The method will be hidden, not overridden."
+  - text: The method will be overridden.
+  - text: The code will not be compiled.
+  - text: "The code will be compiled, but there will be a runtime error."
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/29009#comment
+status: Solved
+record: -1
+custom_name: What happens?
+local_check: false
