@@ -209,6 +209,12 @@
             <option value="$PROJECT_DIR$/Topics/Type-safe builders/StringBuilder" />
             <option value="$PROJECT_DIR$/Topics/Type-safe builders/Theory" />
             <option value="$PROJECT_DIR$/Topics/Type-safe builders/Type-safe builders" />
+            <option value="$PROJECT_DIR$/Topics/Visibility modifiers for members/Internal field" />
+            <option value="$PROJECT_DIR$/Topics/Visibility modifiers for members/Module-limited access control" />
+            <option value="$PROJECT_DIR$/Topics/Visibility modifiers for members/Only in the same class" />
+            <option value="$PROJECT_DIR$/Topics/Visibility modifiers for members/Protected Method" />
+            <option value="$PROJECT_DIR$/Topics/Visibility modifiers for members/Protected subclass visibility" />
+            <option value="$PROJECT_DIR$/Topics/Visibility modifiers for members/Theory" />
             <option value="$PROJECT_DIR$/Topics/When expression/FTN-Numbers" />
             <option value="$PROJECT_DIR$/Topics/When expression/Find the output" />
             <option value="$PROJECT_DIR$/Topics/When expression/Harry Potter" />
