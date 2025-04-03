@@ -57,3 +57,4 @@ content:
   - Writing files
   - Inheritance and constructors
   - Creating custom exceptions
+  - Catching supertype
