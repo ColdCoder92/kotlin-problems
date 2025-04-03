@@ -1,0 +1,22 @@
+type: sorting
+options:
+  - Derived class secondary constructor block
+  - Derived class primary constructor
+  - Base class init blocks
+  - Base class secondary constructor block
+  - Base class primary constructor
+  - Derived class init blocks
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15616#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5

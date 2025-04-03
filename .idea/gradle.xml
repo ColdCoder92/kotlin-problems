@@ -8,6 +8,7 @@
         <option name="testRunner" value="CHOOSE_PER_TEST" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="jbr-21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -75,6 +76,10 @@
             <option value="$PROJECT_DIR$/Topics/Infix functions/Methods and infix precedence" />
             <option value="$PROJECT_DIR$/Topics/Infix functions/The right result of the code" />
             <option value="$PROJECT_DIR$/Topics/Infix functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance and constructors/Base and derived class execution order" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance and constructors/Base class creation" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance and constructors/Class execution order" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance and constructors/Theory" />
             <option value="$PROJECT_DIR$/Topics/Introduction to Kotlin reflection/Advantages" />
             <option value="$PROJECT_DIR$/Topics/Introduction to Kotlin reflection/Change the name" />
             <option value="$PROJECT_DIR$/Topics/Introduction to Kotlin reflection/Disadvantages" />
@@ -232,6 +237,10 @@
             <option value="$PROJECT_DIR$/Topics/Working with strings/Reverse a line of text input" />
             <option value="$PROJECT_DIR$/Topics/Working with strings/The information about a person" />
             <option value="$PROJECT_DIR$/Topics/Working with strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Duplication" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Nonexistent file path" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Overwriting" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
