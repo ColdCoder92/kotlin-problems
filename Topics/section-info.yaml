@@ -56,3 +56,4 @@ content:
   - Visibility modifiers for members
   - Writing files
   - Inheritance and constructors
+  - Creating custom exceptions
