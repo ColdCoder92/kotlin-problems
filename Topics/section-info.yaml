@@ -58,3 +58,4 @@ content:
   - Inheritance and constructors
   - Creating custom exceptions
   - Catching supertype
+  - Collections as interface
