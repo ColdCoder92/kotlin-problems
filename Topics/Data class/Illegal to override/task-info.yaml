@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: copy()
+  - text: equals()
+  - text: toString()
+  - text: hashCode()
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20481#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 25 Jul 2025 23:33:41 UTC"
+record: -1
+selected_options:
+  - 0
+local_check: false

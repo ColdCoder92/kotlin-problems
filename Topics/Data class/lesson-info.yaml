@@ -1,0 +1,7 @@
+content:
+  - Theory
+  - toString() modification
+  - Not overridable
+  - Allowance for functions
+  - copy() usage
+  - Illegal to override

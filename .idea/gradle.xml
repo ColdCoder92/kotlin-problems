@@ -28,6 +28,12 @@
             <option value="$PROJECT_DIR$/Topics/Characters. Char type/Previous character" />
             <option value="$PROJECT_DIR$/Topics/Characters. Char type/The code of a character" />
             <option value="$PROJECT_DIR$/Topics/Characters. Char type/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Collections as interface/Cut the collection" />
+            <option value="$PROJECT_DIR$/Topics/Collections as interface/Game of collections" />
+            <option value="$PROJECT_DIR$/Topics/Collections as interface/Is it true" />
+            <option value="$PROJECT_DIR$/Topics/Collections as interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Collections as interface/United Kingdom of two collections" />
+            <option value="$PROJECT_DIR$/Topics/Collections as interface/Who is parent" />
             <option value="$PROJECT_DIR$/Topics/Contracts/Add to positive" />
             <option value="$PROJECT_DIR$/Topics/Contracts/Explicit participation" />
             <option value="$PROJECT_DIR$/Topics/Contracts/Is string" />
@@ -123,6 +129,11 @@
             <option value="$PROJECT_DIR$/Topics/Map/Map creation" />
             <option value="$PROJECT_DIR$/Topics/Map/Sum of values" />
             <option value="$PROJECT_DIR$/Topics/Map/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mapping transformation/Harry and the Spell Power" />
+            <option value="$PROJECT_DIR$/Topics/Mapping transformation/Match functions and results" />
+            <option value="$PROJECT_DIR$/Topics/Mapping transformation/The right result" />
+            <option value="$PROJECT_DIR$/Topics/Mapping transformation/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mapping transformation/Which definition is correct" />
             <option value="$PROJECT_DIR$/Topics/Mutable List/Banana" />
             <option value="$PROJECT_DIR$/Topics/Mutable List/Comprehension" />
             <option value="$PROJECT_DIR$/Topics/Mutable List/MutableList properties" />
@@ -247,6 +258,11 @@
             <option value="$PROJECT_DIR$/Topics/Writing files/Nonexistent file path" />
             <option value="$PROJECT_DIR$/Topics/Writing files/Overwriting" />
             <option value="$PROJECT_DIR$/Topics/Writing files/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Espresso" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Inheritance" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Number of cups" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/toString() types" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
