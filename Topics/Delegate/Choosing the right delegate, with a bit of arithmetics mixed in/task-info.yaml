@@ -1,0 +1,17 @@
+type: code
+files:
+  - name: src/Main.kt
+    visible: true
+    highlight_level: NONE
+    learner_created: false
+  - name: src/Main.jar
+    visible: true
+    is_binary: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/21412#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 13 Aug 2025 02:38:01 UTC"
+record: -1
+submission_language: kotlin

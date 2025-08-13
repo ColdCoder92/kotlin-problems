@@ -1,0 +1,16 @@
+<div class="step-text">
+<p></p><p>Complete the code in the <code class="language-kotlin">main</code> method by providing an instance of the <code class="language-kotlin">Printer</code> class with the correct delegate from the list below (<code class="language-kotlin">AdditionPrinter</code>, <code class="language-kotlin">SubtractionPrinter</code>, or <code class="language-kotlin">MultiplicationPrinter</code>) so that calling the <code class="language-kotlin">print()</code> method <strong>would print 10 stars</strong>.</p><pre><code class="language-kotlin">class AdditionPrinter : MyInterface {
+    override fun print() { for (i in 1..amount) print("*") }
+    override val amount: Int = 3 + 7 // 10
+}
+
+class SubtractionPrinter : MyInterface {
+    override fun print() { for (i in 1..amount) print("*") }
+    override val amount: Int = 23 - 15 // 8
+}
+
+class MultiplicationPrinter : MyInterface {
+    override fun print() { for (i in 1..amount) print("*") }
+    override val amount: Int = 3 * 4 // 12
+}</code></pre><p><strong>Hint:</strong> $10 = 8 + 2$</p><p><strong>Sample Output:</strong></p><pre><code class="language-kotlin">**********</code></pre><br><br><font color="gray">Memory limit: 256 MB</font><br><font color="gray">Time limit: 8 seconds</font><br><br>
+</div>

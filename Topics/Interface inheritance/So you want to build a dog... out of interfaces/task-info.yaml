@@ -1,0 +1,32 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Animal
+  - text: Fish
+  - text: Bird
+  - text: Biting
+  - text: Purring
+  - text: Barking
+  - text: Moving
+  - text: Flying
+  - text: Walking
+  - text: Bipedal
+  - text: Talking
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20224#comment
+status: Solved
+feedback:
+  message: |-
+    <html>You've used all 7 of your lives for today.
+    Use this pause to revisit theory, and we'll see you tomorrow for more practice!</html>
+  time: "Fri, 25 Jul 2025 23:56:21 UTC"
+record: -1
+selected_options:
+  - 0
+  - 3
+  - 5
+  - 8
+local_check: false

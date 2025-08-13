@@ -1,0 +1,18 @@
+type: code
+custom_name: "Multiple inheritance: interface details for a given class"
+files:
+  - name: src/Main.kt
+    visible: true
+    highlight_level: NONE
+    learner_created: false
+  - name: src/Main.jar
+    visible: true
+    is_binary: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/20225#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 25 Jul 2025 23:53:59 UTC"
+record: -1
+submission_language: kotlin
