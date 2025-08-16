@@ -3,10 +3,10 @@ is_multiple_choice: true
 options:
   - text: "A process of establishing mutual connections between two objects, enabling\
     \ them to use each other's functions reciprocally."
-  - text: "A process when an object uses another object, usually provided as a parameter,\
-    \ for some functionality it lacks itself."
   - text: It's a class implementing an interface but leaving several functions or properties
       for further inheritors.
+  - text: "A process when an object uses another object, usually provided as a parameter,\
+    \ for some functionality it lacks itself."
   - text: Design pattern which allows an object to handle requests by delegating them
       to another object.
 files:
