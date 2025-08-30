@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "Yes, in any case"
+  - text: "Yes, but only if the anonymous object implements an interface"
+  - text: "No, an anonymous object cannot be assigned to a variable"
+  - text: "Yes, but only if the variable type is explicitly specified"
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/28745#comment
+status: Solved
+record: -1
+local_check: false
