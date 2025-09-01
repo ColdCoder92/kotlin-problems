@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: maxOfOrNull()
+  - text: maxOfWithOrNull()
+  - text: maxWithOrNull()
+  - text: maxOrNull()
+  - text: maxByOrNull()
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/23325#comment
+status: Solved
+feedback:
+  message: |-
+    <html>You've used all 7 of your lives for today.
+    Use this pause to revisit theory, and we'll see you tomorrow for more practice!</html>
+  time: "Sat, 30 Aug 2025 21:10:39 UTC"
+record: -1
+selected_options:
+  - 3
+local_check: false

@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "[michael, caroline, dimitry]"
+  - text: 3
+  - text: michael
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/23327#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 30 Aug 2025 21:08:27 UTC"
+record: -1
+selected_options:
+  - 1
+local_check: false
