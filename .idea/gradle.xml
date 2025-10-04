@@ -8,9 +8,17 @@
         <option name="testRunner" value="CHOOSE_PER_TEST" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="jbr-21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Aggregate operations on collections/Hacking the Matrix" />
+            <option value="$PROJECT_DIR$/Topics/Aggregate operations on collections/List of students" />
+            <option value="$PROJECT_DIR$/Topics/Aggregate operations on collections/The average of your scores" />
+            <option value="$PROJECT_DIR$/Topics/Aggregate operations on collections/The max value of a list" />
+            <option value="$PROJECT_DIR$/Topics/Aggregate operations on collections/The right result of count" />
+            <option value="$PROJECT_DIR$/Topics/Aggregate operations on collections/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Aggregate operations on collections/Which definition is correct" />
             <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array of characters" />
             <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array of integers" />
             <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array of longs" />
@@ -28,6 +36,11 @@
             <option value="$PROJECT_DIR$/Topics/Characters. Char type/Previous character" />
             <option value="$PROJECT_DIR$/Topics/Characters. Char type/The code of a character" />
             <option value="$PROJECT_DIR$/Topics/Characters. Char type/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Class delegation/Administrator or User" />
+            <option value="$PROJECT_DIR$/Topics/Class delegation/Advantages of delegation" />
+            <option value="$PROJECT_DIR$/Topics/Class delegation/Correct sequence" />
+            <option value="$PROJECT_DIR$/Topics/Class delegation/System of bonuses" />
+            <option value="$PROJECT_DIR$/Topics/Class delegation/Theory" />
             <option value="$PROJECT_DIR$/Topics/Collections as interface/Cut the collection" />
             <option value="$PROJECT_DIR$/Topics/Collections as interface/Game of collections" />
             <option value="$PROJECT_DIR$/Topics/Collections as interface/Is it true" />
@@ -173,6 +186,12 @@
             <option value="$PROJECT_DIR$/Topics/Named arguments/Perimeter" />
             <option value="$PROJECT_DIR$/Topics/Named arguments/Theory" />
             <option value="$PROJECT_DIR$/Topics/Named arguments/URL" />
+            <option value="$PROJECT_DIR$/Topics/Object expressions/Animal sounds" />
+            <option value="$PROJECT_DIR$/Topics/Object expressions/Anonymous object as a variable value" />
+            <option value="$PROJECT_DIR$/Topics/Object expressions/Hello, world" />
+            <option value="$PROJECT_DIR$/Topics/Object expressions/Interfaces  amp  object expressions" />
+            <option value="$PROJECT_DIR$/Topics/Object expressions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Object expressions/Using anonymous objects" />
             <option value="$PROJECT_DIR$/Topics/Ordering elements in collection/Match functions and results" />
             <option value="$PROJECT_DIR$/Topics/Ordering elements in collection/Order your scores" />
             <option value="$PROJECT_DIR$/Topics/Ordering elements in collection/The Lottery draw" />

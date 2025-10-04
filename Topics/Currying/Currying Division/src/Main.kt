@@ -1,0 +1,1 @@
+fun divide(num1: Int): (Int) -> Double = { num2 -> num1.toDouble() / num2 }

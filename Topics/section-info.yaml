@@ -67,3 +67,4 @@ content:
   - Class delegation
   - Object expressions
   - Aggregate operations on collections
+  - Currying
