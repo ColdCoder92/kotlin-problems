@@ -55,6 +55,12 @@
             <option value="$PROJECT_DIR$/Topics/Creating custom exceptions/Create custom exception" />
             <option value="$PROJECT_DIR$/Topics/Creating custom exceptions/Custom exception" />
             <option value="$PROJECT_DIR$/Topics/Creating custom exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Currying/Amount of arguments" />
+            <option value="$PROJECT_DIR$/Topics/Currying/Currying Division" />
+            <option value="$PROJECT_DIR$/Topics/Currying/Currying Multiplication" />
+            <option value="$PROJECT_DIR$/Topics/Currying/Currying subtraction" />
+            <option value="$PROJECT_DIR$/Topics/Currying/Function composition facilitation" />
+            <option value="$PROJECT_DIR$/Topics/Currying/Theory" />
             <option value="$PROJECT_DIR$/Topics/Data class/Allowance for functions" />
             <option value="$PROJECT_DIR$/Topics/Data class/Illegal to override" />
             <option value="$PROJECT_DIR$/Topics/Data class/Not overridable" />

@@ -68,3 +68,4 @@ content:
   - Object expressions
   - Aggregate operations on collections
   - Currying
+  - Fold and reduce on collections
