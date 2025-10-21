@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Comparator defines a custom ordering of objects
+  - text: Comparable defines the natural ordering of objects
+  - text: "When objects of the same class are being compared, it's recommended to implement\
+    \ Comparable to provide a natural ordering for them"
+  - text: "When objects of different classes are compared or custom orderings are required,\
+    \ it's recommended to implement Comparator"
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/25974#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 21 Oct 2025 19:43:04 UTC"
+record: -1
+selected_options:
+  - 1
+  - 0
+  - 2
+  - 3
+local_check: false

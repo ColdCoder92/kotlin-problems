@@ -69,3 +69,4 @@ content:
   - Aggregate operations on collections
   - Currying
   - Fold and reduce on collections
+  - Comparable and Comparator

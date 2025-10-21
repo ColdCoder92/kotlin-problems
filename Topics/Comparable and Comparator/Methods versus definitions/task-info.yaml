@@ -1,0 +1,33 @@
+type: matching
+captions:
+  - coerceAtMost()
+  - coerceAtLeast()
+  - reversed()
+  - coerceIn()
+options:
+  - "This function checks whether the calling object is between certain minimum and\
+  \ maximum values. It returns the object if it is in the range, the minimum if the\
+  \ object is less than the minimum, or the maximum."
+  - "This function checks whether the calling object is greater than a certain minimum\
+  \ object. It returns the current object if it is greater, otherwise it returns the\
+  \ minimum object"
+  - "This function checks whether the calling object is smaller than the given maximum\
+  \ object. It returns the current object if its smaller, otherwise it returns the\
+  \ maximum object"
+  - This function takes the comparator as an argument and returns a comparator with
+    the reversed ordering of the passed comparator.
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/25971#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 21 Oct 2025 19:43:36 UTC"
+record: -1
+ordering:
+  - 2
+  - 1
+  - 3
+  - 0
